@@ -1,0 +1,15 @@
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/bin/Debug/net6.0/LibraryOfAlexandria
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/bin/Debug/net6.0/LibraryOfAlexandria.deps.json
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/bin/Debug/net6.0/LibraryOfAlexandria.runtimeconfig.json
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/bin/Debug/net6.0/LibraryOfAlexandria.dll
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/bin/Debug/net6.0/LibraryOfAlexandria.pdb
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.GeneratedMSBuildEditorConfig.editorconfig
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.AssemblyInfoInputs.cache
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.AssemblyInfo.cs
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.csproj.CoreCompileInputs.cache
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.sourcelink.json
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.dll
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/refint/LibraryOfAlexandria.dll
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.pdb
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/LibraryOfAlexandria.genruntimeconfig.cache
+/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/Debug/net6.0/ref/LibraryOfAlexandria.dll

@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/LibraryOfAlexandria.csproj": {}
+  },
+  "projects": {
+    "/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/LibraryOfAlexandria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/LibraryOfAlexandria.csproj",
+        "projectName": "LibraryOfAlexandria",
+        "projectPath": "/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/LibraryOfAlexandria.csproj",
+        "packagesPath": "/home/rizzo/.nuget/packages/",
+        "outputPath": "/home/rizzo/Repos/GCMidtermProject/LibraryOfAlexandria/LibraryOfAlexandria/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rizzo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.111/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
